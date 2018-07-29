@@ -1,6 +1,5 @@
 import requests
-with open("./client_secret.txt") as file:
-    client_secret = file.read()
+from client_secret import client_secret
 
 def get_top_streamers(limit=10):
     headers = {
@@ -31,7 +30,7 @@ def get_top_streamers(limit=10):
         chunks.append(lastChunk)
     headers = {
         'Accept': 'application/vnd.twitchtv.v5+json',
-        'Client-ID': 'ndv731ys6v4rpbe4n5jdpofzxju3jv'
+        'Client-ID': client_secret
     }
     streamer_names = list()
     for chunk in chunks:

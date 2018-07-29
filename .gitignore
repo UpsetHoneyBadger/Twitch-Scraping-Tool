@@ -1,2 +1,4 @@
 viewer_data/
-client_secret.txt
+client_secret.py
+password_pi.py
+passwords.py

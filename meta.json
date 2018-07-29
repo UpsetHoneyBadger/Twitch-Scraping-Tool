@@ -1,0 +1,46 @@
+{
+    'stream': {
+        '_id': 29657662496,
+        'game': 'Fortnite',
+        'broadcast_platform': 'live',
+        'community_id': '',
+        'community_ids': [],
+        'viewers': 1972,
+        'video_height': 1080,
+        'average_fps': 60,
+        'delay': 0,
+        'created_at': '2018-07-27T10:11:10Z',
+        'is_playlist': False,
+        'stream_type': 'live',
+        'preview': {
+            'small': 'https://static-cdn.jtvnw.net/previews-ttv/live_user_mitchjones-80x45.jpg',
+            'medium': 'https://static-cdn.jtvnw.net/previews-ttv/live_user_mitchjones-320x180.jpg',
+            'large': 'https://static-cdn.jtvnw.net/previews-ttv/live_user_mitchjones-640x360.jpg',
+            'template': 'https://static-cdn.jtvnw.net/previews-ttv/live_user_mitchjones-{width}x{height}.jpg'
+        },
+        'channel': {
+            'mature': False,
+            'status': 'Pro Player Mitch Jones',
+            'broadcaster_language': 'en',
+            'display_name': 'MitchJones',
+            'game': 'Fortnite',
+            'language': 'en',
+            '_id': 26194208,
+            'name': 'mitchjones',
+            'created_at': '2011-11-17T09:20:52.82689Z',
+            'updated_at': '2018-07-27T11:05:52.615447Z',
+            'partner': True,
+            'logo': 'https://static-cdn.jtvnw.net/jtv_user_pictures/c2bebecb-6fe2-4e49-ab7f-ee9beb755afe-profile_image-300x300.png',
+            'video_banner': 'https://static-cdn.jtvnw.net/jtv_user_pictures/6f8029f5e573c602-channel_offline_image-1920x1080.png',
+            'profile_banner': 'https://static-cdn.jtvnw.net/jtv_user_pictures/f1a4bda4-2e70-4859-bd00-bc1dc258cb04-profile_banner-480.jpg',
+            'profile_banner_background_color': '',
+            'url': 'https://www.twitch.tv/mitchjones',
+            'views': 25659430,
+            'followers': 353698,
+            'broadcaster_type': '',
+            'description': 'The Law',
+            'private_video': False,
+            'privacy_options_enabled': False
+        }
+    }
+}
